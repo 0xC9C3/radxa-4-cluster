@@ -1,0 +1,5376 @@
+Sun Apr 20 12:43:12 AM UTC 2025
+
+CPU Clock Speed:2899.978 2899.917 2899.957 2899.924
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +35.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +35.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:13 AM UTC 2025
+
+CPU Clock Speed:2900.016 2900.091 2900.107 2899.931
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +70.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +70.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +70.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +71.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +71.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:14 AM UTC 2025
+
+CPU Clock Speed:2900.001 2899.923 2900.015 2900.110
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:15 AM UTC 2025
+
+CPU Clock Speed:2899.940 2899.949 2899.940 2899.995
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:16 AM UTC 2025
+
+CPU Clock Speed:2899.995 2899.935 2900.014 2899.889
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:17 AM UTC 2025
+
+CPU Clock Speed:2899.980 2899.963 2900.032 2899.948
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +73.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:18 AM UTC 2025
+
+CPU Clock Speed:2900.034 2899.982 2900.001 2900.046
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:19 AM UTC 2025
+
+CPU Clock Speed:2899.971 2899.981 2899.957 2900.024
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:20 AM UTC 2025
+
+CPU Clock Speed:2900.061 2899.949 2900.041 2900.070
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:21 AM UTC 2025
+
+CPU Clock Speed:2900.011 2900.018 2899.986 2900.032
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:23 AM UTC 2025
+
+CPU Clock Speed:2899.908 2900.100 2899.937 2900.002
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:24 AM UTC 2025
+
+CPU Clock Speed:2899.966 2900.036 2899.878 2899.984
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +74.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:25 AM UTC 2025
+
+CPU Clock Speed:2899.997 2899.949 2900.064 2900.068
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:26 AM UTC 2025
+
+CPU Clock Speed:2900.021 2899.988 2899.966 2899.948
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:27 AM UTC 2025
+
+CPU Clock Speed:2899.927 2899.960 2900.041 2900.054
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:28 AM UTC 2025
+
+CPU Clock Speed:2900.072 2899.922 2899.921 2900.033
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:29 AM UTC 2025
+
+CPU Clock Speed:2899.976 2900.006 2900.043 2899.989
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:30 AM UTC 2025
+
+CPU Clock Speed:2899.934 2899.953 2900.041 2900.063
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:31 AM UTC 2025
+
+CPU Clock Speed:2899.975 2899.951 2900.001 2899.987
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +77.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +76.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:32 AM UTC 2025
+
+CPU Clock Speed:2899.894 2899.972 2900.085 2899.909
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:33 AM UTC 2025
+
+CPU Clock Speed:2899.998 2899.925 2900.026 2899.898
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +77.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +77.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +77.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +75.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:34 AM UTC 2025
+
+CPU Clock Speed:2299.994 2299.984 2299.998 2300.039
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +58.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +58.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +57.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +57.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +57.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:35 AM UTC 2025
+
+CPU Clock Speed:2200.026 2200.007 2200.004 2199.989
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:36 AM UTC 2025
+
+CPU Clock Speed:2199.966 2199.969 2200.014 2199.989
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +28.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:38 AM UTC 2025
+
+CPU Clock Speed:2199.957 2200.002 2200.028 2200.013
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +28.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:39 AM UTC 2025
+
+CPU Clock Speed:2200.023 2199.959 2199.972 2200.064
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:40 AM UTC 2025
+
+CPU Clock Speed:2199.974 2199.917 2199.964 2200.012
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:41 AM UTC 2025
+
+CPU Clock Speed:2199.974 2199.983 2199.996 2200.060
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:42 AM UTC 2025
+
+CPU Clock Speed:2255.330 2255.352 2255.306 2255.389
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:43 AM UTC 2025
+
+CPU Clock Speed:2200.008 2200.039 2199.967 2200.054
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:44 AM UTC 2025
+
+CPU Clock Speed:2259.853 2259.691 2259.905 2259.782
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:45 AM UTC 2025
+
+CPU Clock Speed:2259.573 2259.636 2259.744 2259.719
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:46 AM UTC 2025
+
+CPU Clock Speed:2199.993 2200.018 2200.040 2200.057
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:47 AM UTC 2025
+
+CPU Clock Speed:2200.055 2199.918 2199.926 2199.953
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:48 AM UTC 2025
+
+CPU Clock Speed:2199.994 2199.948 2200.026 2199.990
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:49 AM UTC 2025
+
+CPU Clock Speed:2200.049 2200.038 2199.979 2199.936
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:50 AM UTC 2025
+
+CPU Clock Speed:2299.994 2299.941 2300.020 2299.912
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:52 AM UTC 2025
+
+CPU Clock Speed:2199.953 2200.020 2200.075 2200.041
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:53 AM UTC 2025
+
+CPU Clock Speed:2200.030 2199.970 2200.009 2200.039
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:54 AM UTC 2025
+
+CPU Clock Speed:2287.133 2287.223 2287.148 2287.191
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:55 AM UTC 2025
+
+CPU Clock Speed:2199.996 2200.128 2200.064 2199.989
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:56 AM UTC 2025
+
+CPU Clock Speed:2199.996 2199.992 2199.994 2199.945
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:57 AM UTC 2025
+
+CPU Clock Speed:2200.021 2200.003 2200.021 2200.054
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:58 AM UTC 2025
+
+CPU Clock Speed:2200.050 2200.018 2200.030 2200.074
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:43:59 AM UTC 2025
+
+CPU Clock Speed:2299.954 2300.068 2300.041 2299.963
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:00 AM UTC 2025
+
+CPU Clock Speed:2299.984 2299.988 2300.004 2299.939
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:01 AM UTC 2025
+
+CPU Clock Speed:2299.969 2299.987 2300.004 2299.955
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:02 AM UTC 2025
+
+CPU Clock Speed:2200.012 2199.976 2199.984 2200.047
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:03 AM UTC 2025
+
+CPU Clock Speed:2200.010 2199.996 2199.952 2200.029
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:04 AM UTC 2025
+
+CPU Clock Speed:2274.718 2274.858 2274.846 2274.830
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:06 AM UTC 2025
+
+CPU Clock Speed:2200.008 2200.039 2199.932 2199.988
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:07 AM UTC 2025
+
+CPU Clock Speed:2200.031 2199.940 2199.945 2199.983
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:08 AM UTC 2025
+
+CPU Clock Speed:2227.627 2227.587 2227.680 2227.652
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:09 AM UTC 2025
+
+CPU Clock Speed:2300.056 2299.930 2299.954 2300.027
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:10 AM UTC 2025
+
+CPU Clock Speed:2200.043 2199.960 2199.956 2200.069
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:11 AM UTC 2025
+
+CPU Clock Speed:2260.426 2260.439 2260.289 2260.322
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:12 AM UTC 2025
+
+CPU Clock Speed:2250.352 2250.461 2250.394 2250.432
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:13 AM UTC 2025
+
+CPU Clock Speed:2300.046 2299.986 2299.952 2299.990
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:14 AM UTC 2025
+
+CPU Clock Speed:2244.866 2244.904 2244.966 2244.879
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:15 AM UTC 2025
+
+CPU Clock Speed:2245.864 2245.890 2245.833 2245.940
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:16 AM UTC 2025
+
+CPU Clock Speed:2199.944 2200.032 2199.966 2199.975
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:17 AM UTC 2025
+
+CPU Clock Speed:2200.009 2199.983 2199.949 2199.964
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:18 AM UTC 2025
+
+CPU Clock Speed:2199.997 2199.951 2199.991 2199.934
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:20 AM UTC 2025
+
+CPU Clock Speed:2299.974 2299.974 2299.992 2299.990
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:21 AM UTC 2025
+
+CPU Clock Speed:2233.955 2233.966 2233.986 2233.893
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:22 AM UTC 2025
+
+CPU Clock Speed:2268.928 2268.958 2268.880 2268.924
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:23 AM UTC 2025
+
+CPU Clock Speed:2199.977 2200.073 2199.969 2200.029
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:24 AM UTC 2025
+
+CPU Clock Speed:2276.784 2276.818 2276.779 2276.733
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:25 AM UTC 2025
+
+CPU Clock Speed:2217.147 2217.267 2217.047 2217.087
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:26 AM UTC 2025
+
+CPU Clock Speed:2220.362 2220.297 2220.262 2220.324
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:27 AM UTC 2025
+
+CPU Clock Speed:2285.253 2285.244 2285.242 2285.164
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:28 AM UTC 2025
+
+CPU Clock Speed:2200.014 2200.009 2199.996 2199.963
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:29 AM UTC 2025
+
+CPU Clock Speed:2287.602 2287.605 2287.637 2287.645
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:30 AM UTC 2025
+
+CPU Clock Speed:2200.008 2199.996 2200.029 2200.024
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:31 AM UTC 2025
+
+CPU Clock Speed:2300.028 2299.939 2300.002 2299.935
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:32 AM UTC 2025
+
+CPU Clock Speed:2300.034 2300.005 2300.002 2299.984
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:34 AM UTC 2025
+
+CPU Clock Speed:2199.961 2199.992 2200.086 2199.988
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:35 AM UTC 2025
+
+CPU Clock Speed:2200.071 2199.945 2199.976 2199.976
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:36 AM UTC 2025
+
+CPU Clock Speed:2299.991 2300.032 2300.047 2300.001
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:37 AM UTC 2025
+
+CPU Clock Speed:2283.158 2283.213 2283.180 2283.148
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:38 AM UTC 2025
+
+CPU Clock Speed:2300.001 2299.975 2300.047 2300.049
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:39 AM UTC 2025
+
+CPU Clock Speed:2285.995 2286.030 2286.049 2286.090
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:40 AM UTC 2025
+
+CPU Clock Speed:2299.957 2299.982 2299.973 2299.970
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:41 AM UTC 2025
+
+CPU Clock Speed:2200.040 2199.987 2199.978 2199.960
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:42 AM UTC 2025
+
+CPU Clock Speed:2199.957 2199.941 2199.995 2199.931
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:43 AM UTC 2025
+
+CPU Clock Speed:2199.920 2200.018 2200.085 2199.935
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:44 AM UTC 2025
+
+CPU Clock Speed:2200.060 2200.031 2200.056 2199.968
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:45 AM UTC 2025
+
+CPU Clock Speed:2199.950 2200.015 2199.980 2199.945
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:46 AM UTC 2025
+
+CPU Clock Speed:2236.976 2236.977 2237.035 2236.951
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:47 AM UTC 2025
+
+CPU Clock Speed:2299.990 2299.958 2299.982 2300.039
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:49 AM UTC 2025
+
+CPU Clock Speed:2257.992 2258.079 2257.991 2257.987
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:50 AM UTC 2025
+
+CPU Clock Speed:2300.002 2300.032 2299.955 2300.050
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:51 AM UTC 2025
+
+CPU Clock Speed:2249.173 2249.320 2249.307 2248.837
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:52 AM UTC 2025
+
+CPU Clock Speed:2259.804 2259.584 2259.728 2259.689
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:53 AM UTC 2025
+
+CPU Clock Speed:2300.042 2299.946 2300.084 2299.985
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:54 AM UTC 2025
+
+CPU Clock Speed:2200.003 2200.060 2199.925 2200.022
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:55 AM UTC 2025
+
+CPU Clock Speed:2260.787 2260.688 2260.729 2260.774
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:56 AM UTC 2025
+
+CPU Clock Speed:2267.602 2267.463 2267.582 2267.639
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:57 AM UTC 2025
+
+CPU Clock Speed:2228.847 2229.068 2228.917 2228.959
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:58 AM UTC 2025
+
+CPU Clock Speed:2229.134 2229.169 2229.119 2229.111
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:44:59 AM UTC 2025
+
+CPU Clock Speed:2272.612 2272.750 2272.715 2272.693
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:00 AM UTC 2025
+
+CPU Clock Speed:2280.667 2280.573 2280.678 2280.658
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:01 AM UTC 2025
+
+CPU Clock Speed:2215.065 2215.116 2215.086 2215.146
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:03 AM UTC 2025
+
+CPU Clock Speed:2199.935 2199.950 2200.043 2200.034
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:04 AM UTC 2025
+
+CPU Clock Speed:2282.788 2282.597 2282.729 2282.630
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:05 AM UTC 2025
+
+CPU Clock Speed:2200.046 2199.993 2199.976 2200.005
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:06 AM UTC 2025
+
+CPU Clock Speed:2200.036 2199.998 2199.987 2199.961
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:07 AM UTC 2025
+
+CPU Clock Speed:2200.022 2200.066 2199.950 2200.028
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:08 AM UTC 2025
+
+CPU Clock Speed:2200.018 2200.005 2200.040 2199.947
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:09 AM UTC 2025
+
+CPU Clock Speed:2299.990 2300.063 2299.974 2299.994
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:10 AM UTC 2025
+
+CPU Clock Speed:2199.919 2199.963 2199.966 2200.074
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:11 AM UTC 2025
+
+CPU Clock Speed:2286.008 2286.205 2286.044 2286.016
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:12 AM UTC 2025
+
+CPU Clock Speed:2199.956 2199.929 2200.000 2199.990
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:13 AM UTC 2025
+
+CPU Clock Speed:2300.003 2300.033 2299.985 2299.970
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:14 AM UTC 2025
+
+CPU Clock Speed:2199.996 2200.052 2199.985 2200.080
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:15 AM UTC 2025
+
+CPU Clock Speed:2200.034 2200.058 2199.993 2200.048
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:17 AM UTC 2025
+
+CPU Clock Speed:2299.998 2300.022 2299.976 2299.979
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:18 AM UTC 2025
+
+CPU Clock Speed:2299.981 2300.010 2299.937 2300.015
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:19 AM UTC 2025
+
+CPU Clock Speed:2199.932 2199.955 2200.032 2199.939
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:20 AM UTC 2025
+
+CPU Clock Speed:2299.923 2300.020 2300.029 2299.942
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:21 AM UTC 2025
+
+CPU Clock Speed:2299.963 2300.008 2300.032 2300.015
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:22 AM UTC 2025
+
+CPU Clock Speed:2255.985 2256.011 2255.931 2256.026
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:23 AM UTC 2025
+
+CPU Clock Speed:2199.974 2199.959 2199.982 2199.939
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:24 AM UTC 2025
+
+CPU Clock Speed:2245.100 2245.040 2245.106 2245.152
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:25 AM UTC 2025
+
+CPU Clock Speed:2200.033 2199.979 2200.062 2200.061
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:26 AM UTC 2025
+
+CPU Clock Speed:2200.032 2200.016 2199.942 2199.954
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:27 AM UTC 2025
+
+CPU Clock Speed:2199.924 2200.002 2200.023 2199.984
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:28 AM UTC 2025
+
+CPU Clock Speed:2200.075 2199.973 2199.988 2199.990
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:29 AM UTC 2025
+
+CPU Clock Speed:2232.302 2232.295 2232.240 2232.358
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:31 AM UTC 2025
+
+CPU Clock Speed:2299.996 2299.914 2300.030 2300.070
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:32 AM UTC 2025
+
+CPU Clock Speed:2300.042 2299.919 2300.055 2299.946
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:33 AM UTC 2025
+
+CPU Clock Speed:2199.950 2199.953 2200.018 2199.949
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:34 AM UTC 2025
+
+CPU Clock Speed:2273.314 2273.192 2273.164 2273.252
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:35 AM UTC 2025
+
+CPU Clock Speed:2219.939 2219.869 2219.989 2219.921
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:36 AM UTC 2025
+
+CPU Clock Speed:2299.921 2300.043 2300.023 2299.965
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:37 AM UTC 2025
+
+CPU Clock Speed:2199.966 2199.941 2199.971 2200.003
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +29.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:38 AM UTC 2025
+
+CPU Clock Speed:2288.598 2288.402 2288.663 2288.587
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +29.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:39 AM UTC 2025
+
+CPU Clock Speed:2199.958 2200.003 2199.973 2199.966
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:40 AM UTC 2025
+
+CPU Clock Speed:2210.122 2210.233 2210.163 2210.069
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:41 AM UTC 2025
+
+CPU Clock Speed:2293.255 2293.305 2293.243 2293.281
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:42 AM UTC 2025
+
+CPU Clock Speed:2300.015 2299.952 2300.007 2299.933
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:43 AM UTC 2025
+
+CPU Clock Speed:2199.971 2200.006 2199.962 2200.047
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:44 AM UTC 2025
+
+CPU Clock Speed:2299.989 2300.104 2299.963 2300.018
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:46 AM UTC 2025
+
+CPU Clock Speed:2300.019 2299.957 2300.060 2299.961
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:47 AM UTC 2025
+
+CPU Clock Speed:2200.024 2199.979 2199.902 2199.954
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:48 AM UTC 2025
+
+CPU Clock Speed:2213.057 2213.057 2212.999 2213.064
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:49 AM UTC 2025
+
+CPU Clock Speed:2222.250 2222.207 2222.246 2222.264
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:50 AM UTC 2025
+
+CPU Clock Speed:2226.617 2226.352 2226.402 2226.601
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:51 AM UTC 2025
+
+CPU Clock Speed:2237.937 2237.955 2238.006 2238.016
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:52 AM UTC 2025
+
+CPU Clock Speed:2299.992 2299.979 2300.083 2299.963
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:53 AM UTC 2025
+
+CPU Clock Speed:2200.069 2200.027 2199.986 2200.023
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:54 AM UTC 2025
+
+CPU Clock Speed:2300.017 2299.982 2300.054 2299.994
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:55 AM UTC 2025
+
+CPU Clock Speed:2300.013 2300.032 2299.985 2300.034
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:56 AM UTC 2025
+
+CPU Clock Speed:2200.000 2200.016 2199.964 2200.019
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:57 AM UTC 2025
+
+CPU Clock Speed:2239.979 2239.854 2239.784 2239.808
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:45:58 AM UTC 2025
+
+CPU Clock Speed:2300.036 2299.898 2299.997 2299.960
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +37.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:00 AM UTC 2025
+
+CPU Clock Speed:2199.980 2199.946 2199.936 2200.062
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +31.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:01 AM UTC 2025
+
+CPU Clock Speed:2300.010 2299.998 2299.975 2299.985
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:02 AM UTC 2025
+
+CPU Clock Speed:2199.943 2200.015 2200.010 2199.976
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:03 AM UTC 2025
+
+CPU Clock Speed:2248.212 2248.306 2248.257 2248.329
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:04 AM UTC 2025
+
+CPU Clock Speed:2258.443 2258.381 2258.478 2258.459
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:05 AM UTC 2025
+
+CPU Clock Speed:2299.983 2299.938 2299.971 2299.964
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:06 AM UTC 2025
+
+CPU Clock Speed:2260.428 2260.337 2260.426 2260.538
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:07 AM UTC 2025
+
+CPU Clock Speed:2267.417 2267.452 2267.472 2267.400
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:08 AM UTC 2025
+
+CPU Clock Speed:2271.337 2271.274 2271.364 2271.337
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:09 AM UTC 2025
+
+CPU Clock Speed:2200.026 2200.028 2199.979 2200.052
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:10 AM UTC 2025
+
+CPU Clock Speed:2200.071 2199.972 2199.955 2199.983
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:11 AM UTC 2025
+
+CPU Clock Speed:2299.980 2299.952 2300.065 2299.953
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:12 AM UTC 2025
+
+CPU Clock Speed:2300.021 2300.019 2300.018 2300.002
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:14 AM UTC 2025
+
+CPU Clock Speed:2299.929 2300.026 2300.013 2299.987
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:15 AM UTC 2025
+
+CPU Clock Speed:2299.979 2300.006 2300.052 2300.080
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:16 AM UTC 2025
+
+CPU Clock Speed:2200.035 2200.017 2199.969 2200.068
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +53.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:17 AM UTC 2025
+
+CPU Clock Speed:2201.354 2201.323 2201.258 2201.303
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:18 AM UTC 2025
+
+CPU Clock Speed:2200.001 2199.952 2200.012 2199.977
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:19 AM UTC 2025
+
+CPU Clock Speed:2298.127 2298.126 2298.078 2298.122
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:20 AM UTC 2025
+
+CPU Clock Speed:2200.046 2200.021 2200.020 2199.923
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:21 AM UTC 2025
+
+CPU Clock Speed:2200.058 2200.067 2199.962 2200.037
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:22 AM UTC 2025
+
+CPU Clock Speed:2299.991 2299.935 2300.036 2299.982
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:23 AM UTC 2025
+
+CPU Clock Speed:2276.471 2276.680 2276.417 2276.376
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:24 AM UTC 2025
+
+CPU Clock Speed:2299.991 2299.928 2299.981 2300.039
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:25 AM UTC 2025
+
+CPU Clock Speed:2300.076 2300.035 2300.009 2300.021
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:26 AM UTC 2025
+
+CPU Clock Speed:2200.008 2200.035 2199.984 2199.974
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +57.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +57.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:27 AM UTC 2025
+
+CPU Clock Speed:2271.468 2299.971 2299.998 2300.013
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:29 AM UTC 2025
+
+CPU Clock Speed:2200.079 2200.029 2200.050 2200.018
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:30 AM UTC 2025
+
+CPU Clock Speed:2199.931 2199.984 2200.026 2200.021
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:31 AM UTC 2025
+
+CPU Clock Speed:2230.430 2230.389 2230.461 2230.402
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:32 AM UTC 2025
+
+CPU Clock Speed:2300.052 2300.001 2299.992 2300.009
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:33 AM UTC 2025
+
+CPU Clock Speed:2199.970 2200.064 2200.057 2200.013
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:34 AM UTC 2025
+
+CPU Clock Speed:2243.401 2243.376 2243.414 2243.452
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:35 AM UTC 2025
+
+CPU Clock Speed:2200.014 2199.967 2200.034 2199.944
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +33.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:36 AM UTC 2025
+
+CPU Clock Speed:2256.067 2255.907 2255.901 2255.986
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +33.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +31.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:37 AM UTC 2025
+
+CPU Clock Speed:2255.209 2255.086 2255.382 2255.407
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:38 AM UTC 2025
+
+CPU Clock Speed:2199.938 2200.047 2199.914 2200.039
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:39 AM UTC 2025
+
+CPU Clock Speed:2200.002 2199.987 2199.945 2199.972
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:40 AM UTC 2025
+
+CPU Clock Speed:2261.966 2261.881 2261.991 2261.864
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:41 AM UTC 2025
+
+CPU Clock Speed:2299.935 2300.021 2300.019 2300.000
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:43 AM UTC 2025
+
+CPU Clock Speed:2299.981 2299.994 2300.028 2299.921
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:44 AM UTC 2025
+
+CPU Clock Speed:2300.064 2300.060 2300.063 2299.966
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:45 AM UTC 2025
+
+CPU Clock Speed:2200.022 2199.991 2199.997 2200.024
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:46 AM UTC 2025
+
+CPU Clock Speed:2213.110 2213.123 2213.116 2213.112
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:47 AM UTC 2025
+
+CPU Clock Speed:2199.987 2199.979 2199.978 2199.968
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:48 AM UTC 2025
+
+CPU Clock Speed:2284.548 2284.481 2284.581 2284.592
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:49 AM UTC 2025
+
+CPU Clock Speed:2285.464 2285.437 2285.521 2285.352
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:50 AM UTC 2025
+
+CPU Clock Speed:2300.032 2299.925 2299.995 2299.936
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:51 AM UTC 2025
+
+CPU Clock Speed:2199.974 2199.980 2200.006 2199.981
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:52 AM UTC 2025
+
+CPU Clock Speed:2300.023 2300.038 2300.040 2299.966
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:53 AM UTC 2025
+
+CPU Clock Speed:2201.020 2200.927 2201.026 2200.923
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:54 AM UTC 2025
+
+CPU Clock Speed:2205.021 2204.949 2205.049 2205.025
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:55 AM UTC 2025
+
+CPU Clock Speed:2299.971 2299.986 2300.002 2299.927
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:57 AM UTC 2025
+
+CPU Clock Speed:2208.130 2208.043 2208.118 2208.069
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:58 AM UTC 2025
+
+CPU Clock Speed:2199.912 2199.955 2199.996 2199.994
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:46:59 AM UTC 2025
+
+CPU Clock Speed:2267.312 2267.411 2267.381 2267.278
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:00 AM UTC 2025
+
+CPU Clock Speed:2219.046 2218.952 2218.963 2219.037
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:01 AM UTC 2025
+
+CPU Clock Speed:2199.992 2199.991 2199.996 2199.997
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:02 AM UTC 2025
+
+CPU Clock Speed:2200.040 2200.047 2200.033 2200.044
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +54.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:03 AM UTC 2025
+
+CPU Clock Speed:2271.388 2271.401 2271.395 2271.419
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:04 AM UTC 2025
+
+CPU Clock Speed:2199.969 2199.984 2200.048 2199.954
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:05 AM UTC 2025
+
+CPU Clock Speed:2200.007 2200.018 2200.013 2199.994
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:06 AM UTC 2025
+
+CPU Clock Speed:2267.387 2267.453 2267.429 2267.399
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:07 AM UTC 2025
+
+CPU Clock Speed:2260.844 2260.836 2260.822 2260.816
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:08 AM UTC 2025
+
+CPU Clock Speed:2238.078 2238.061 2238.011 2238.122
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +56.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:09 AM UTC 2025
+
+CPU Clock Speed:2247.491 2247.439 2247.469 2247.446
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:10 AM UTC 2025
+
+CPU Clock Speed:2252.333 2252.286 2252.289 2252.497
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +30.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
+Sun Apr 20 12:47:12 AM UTC 2025
+
+CPU Clock Speed:2255.337 2255.268 2255.227 2255.334
+
+Temperatures:
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 0:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 1:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 2:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+Core 3:        +55.0°C  (high = +105.0°C, crit = +105.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  
+
+nvme-pci-0300
+Adapter: PCI adapter
+Composite:    +31.9°C  (low  = -273.1°C, high = +82.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +30.9°C  (low  = -273.1°C, high = +65261.8°C)
+-----------------
+
