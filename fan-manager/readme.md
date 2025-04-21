@@ -8,7 +8,7 @@ run via i.e.
 docker run --privileged -v "/dev:/dev" ghcr.io/0xC9C3/radxa-x4-cluster/fan-manager:main -p /dev/ttyS4
 ```
 
-the u2f can be installed via the -i flag i.e. via
+the uf2 can be installed via the -i flag i.e. via
 
 ```bash
 docker run --privileged -v "/dev:/dev" ghcr.io/0xC9C3/radxa-x4-cluster/fan-manager:main -i
