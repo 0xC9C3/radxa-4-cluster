@@ -1,0 +1,6 @@
+[submodule "fan-manager/uf2/build/pico-sdk"]
+	path = fan-manager/uf2/build/pico-sdk
+	url = git@github.com:raspberrypi/pico-sdk.git
+[submodule "fan-manager/uf2/pico-sdk"]
+	path = fan-manager/uf2/pico-sdk
+	url = git@github.com:raspberrypi/pico-sdk.git
