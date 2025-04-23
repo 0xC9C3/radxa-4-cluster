@@ -2,27 +2,42 @@
 
 a small app to control the fan speed via pwm of the radxa X4
 
-run via i.e.
+# Running
 
 ```bash
-docker run --privileged -v "/dev:/dev" ghcr.io/0xC9C3/radxa-x4-cluster/fan-manager:main -p /dev/ttyS4
+docker run --privileged ghcr.io/0xc9c3/radxa-x4-cluster/fan-manager:main -p /dev/ttyS4
 ```
 
-the uf2 can be installed via the -i flag i.e. via
+# Installation
+
+the uf2 can be installed via the -i flag i.e. via copying the binary from the container
 
 ```bash
-docker run --privileged -v "/dev:/dev" ghcr.io/0xC9C3/radxa-x4-cluster/fan-manager:main -i
+docker run -v ".:/out" --entrypoint bash ghcr.io/0xc9c3/radxa-x4-cluster/fan-manager:main -c "cp /usr/bin/fan-manager /out"
 ```
 
-or for kubernetes to run on every node
+and then running it on the host
+
+```bash
+./fan-manager -i
+```
+
+You need gpioset / libgpio installed to run the fan-manager installation. Alternatively you can build the uf2 from the
+source and copy it manually.
+
+# Kubernetes
+
+for kubernetes to run on every node
 
 1. create a privileged namespace
     ```bash
    kubectl create ns fan-manager
    ```
+
    ```bash 
    kubectl label namespace fan-manager pod-security.kubernetes.io/enforce=privileged
    ```
+
 2. create the demonset
     ```bash
    kubectl apply -f fan-manager.yaml
