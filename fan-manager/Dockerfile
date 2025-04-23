@@ -43,7 +43,7 @@ COPY --from=app-builder /out/fan-manager /bin/
 
 # install gpioset
 RUN apt-get update && \
-    apt-get install -y libgpiod3 && \
+    apt-get install -y gpiod && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 

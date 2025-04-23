@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: fan-manager
+  namespace: fan-manager
+  labels:
+    app: fan-manager
+spec:
+  selector:
+    matchLabels:
+      app: fan-manager
+  template:
+    metadata:
+      labels:
+        app: fan-manager
+    spec:
+      tolerations:
+        - key: "node-role.kubernetes.io/master"
+          operator: Exists
+          effect: NoSchedule
+        - key: "node-role.kubernetes.io/control-plane"
+          operator: Exists
+          effect: NoSchedule
+      containers:
+        - name: fan-manager
+          image: ghcr.io/0xc9c3/radxa-x4-cluster/fan-manager:main
+          imagePullPolicy: Always
+          args: [ "-p", "/dev/ttyS0" ]
+          securityContext:
+            privileged: true
