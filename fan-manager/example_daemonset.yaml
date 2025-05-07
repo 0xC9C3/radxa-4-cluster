@@ -13,7 +13,7 @@ spec:
     metadata:
       labels:
         app: fan-manager
-        date: "2023-10-03"
+        date: "2023-10-04"
     spec:
       tolerations:
         - key: "node-role.kubernetes.io/master"
@@ -39,7 +39,7 @@ spec:
           ]
           ports:
             - name: metrics
-              containerPort: 9090
+              containerPort: 8080
               protocol: TCP
           securityContext:
             privileged: true
@@ -48,10 +48,14 @@ apiVersion: monitoring.coreos.com/v1
 kind: PodMonitor
 metadata:
   name: fan-manager
+  namespace: kube-prom
 spec:
   selector:
     matchLabels:
       app: fan-manager
+  namespaceSelector:
+    matchNames:
+      - fan-manager
   podMetricsEndpoints:
     - port: metrics
       interval: 10s
