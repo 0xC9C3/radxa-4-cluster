@@ -4,7 +4,6 @@ use log::{debug, error, info};
 use std::error::Error;
 
 enum ExitErrorCode {
-    NoSteps,
     FailedToParseSteps,
     NoSerialPorts,
 }
@@ -42,10 +41,6 @@ pub struct Args {
 }
 
 impl Args {
-    pub fn new() -> Self {
-        Args::parse()
-    }
-
     pub fn get_steps(&self) -> Result<Vec<(f32, f32)>, String> {
         let mut steps = Vec::new();
         for step in &self.step {

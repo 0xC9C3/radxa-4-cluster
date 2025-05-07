@@ -1,7 +1,8 @@
+use crate::metrics::get_fan_metrics;
 use log::info;
 use sysinfo::{Components, System};
 
-pub fn control(
+pub async fn control(
     mut port: Box<dyn serialport::SerialPort>,
     steps: Vec<(f32, f32)>,
     refresh_rate: u32,
@@ -35,6 +36,7 @@ pub fn control(
         }
         let average_temp: f32 =
             average_temp_collection.iter().sum::<f32>() / average_temp_collection.len() as f32;
+        get_fan_metrics().set_temperature(average_temp);
 
         let mut fan_speed: f32 = 0f32;
         for (temp_threshold, speed) in &steps {
@@ -47,7 +49,7 @@ pub fn control(
 
         // If the fan speed is the same as the current one, skip sending the command
         if fan_speed == current_fan_speed {
-            std::thread::sleep(std::time::Duration::from_millis(refresh_rate as u64));
+            tokio::time::sleep(std::time::Duration::from_millis(refresh_rate as u64)).await;
             continue;
         }
 
@@ -62,12 +64,13 @@ pub fn control(
                 .unwrap_or_else(|| "Unknown component".into())
         );
 
+        get_fan_metrics().set_fan_speed(current_fan_speed);
         current_fan_speed = fan_speed;
 
         // the speed will be read via atof
         let command = format!("{}\n", fan_speed);
         port.write(command.as_bytes()).unwrap();
 
-        std::thread::sleep(std::time::Duration::from_millis(refresh_rate as u64));
+        tokio::time::sleep(std::time::Duration::from_millis(refresh_rate as u64)).await;
     }
 }

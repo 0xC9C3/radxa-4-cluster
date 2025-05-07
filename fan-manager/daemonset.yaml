@@ -13,6 +13,7 @@ spec:
     metadata:
       labels:
         app: fan-manager
+        date: "2023-10-03"
     spec:
       tolerations:
         - key: "node-role.kubernetes.io/master"
@@ -25,6 +26,32 @@ spec:
         - name: fan-manager
           image: ghcr.io/0xc9c3/radxa-x4-cluster/fan-manager:main
           imagePullPolicy: Always
-          args: [ "-p", "/dev/ttyS0" ]
+          args: [ "-p", "/dev/ttyS0" ,
+                  "-s", "1:10",
+                  "-s", "30:20",
+                  "-s", "40:25",
+                  "-s", "45:35",
+                  "-s", "50:40",
+                  "-s", "55:45",
+                  "-s", "65:55",
+                  "-s", "70:60",
+                  "-s", "80:100"
+          ]
+          ports:
+            - name: metrics
+              containerPort: 9090
+              protocol: TCP
           securityContext:
             privileged: true
+---
+apiVersion: monitoring.coreos.com/v1
+kind: PodMonitor
+metadata:
+  name: fan-manager
+spec:
+  selector:
+    matchLabels:
+      app: fan-manager
+  podMetricsEndpoints:
+    - port: metrics
+      interval: 10s
